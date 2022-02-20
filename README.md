@@ -5,4 +5,4 @@ The Multi-Stage Encoding Compression (M-SEC) algorithm compresses binary and pla
 The M-SEC code is also able to invert these transforms and decompress any files that have been compressed.
 M-SEC is a lossless compression algorithm.
 
-This was coded as a project for the class: CSE 3500 Algorithms at UConn.
+This project was coded/implemented for the class: CSE 3500 Algorithms at UConn.
